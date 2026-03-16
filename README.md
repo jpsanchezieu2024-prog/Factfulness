@@ -49,7 +49,7 @@ The following preprocessing steps were applied:
 
 1. **Removed variables with more than 40% missing values**
 2. **Dropped highly incomplete education variables**
-3. **Imputed remaining missing values** using statistical imputation
+3. **Imputed remaining missing values** using EM imputation
 4. **Prepared the dataset for clustering analysis**
 
 ---
